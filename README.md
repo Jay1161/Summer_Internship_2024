@@ -91,7 +91,7 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 
 ## 3️⃣ Week 3
 
-### *12th June 2024*
+### *29th May 2024*
 
 - *Online Session*: Introduction to Password Complexity Checker
 - This week focused on developing a password complexity checker to enhance password security.
@@ -132,6 +132,50 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 
 - Reviewed the entire week's work and made final adjustments.
 - Prepared a presentation to showcase the password complexity checker tool.
+
+## 4️⃣ Week 4
+
+### *5th June 2024*
+
+- *Online Session*: Introduction to Keylogger
+- This week focused on understanding and implementing a simple keylogger to monitor keystrokes.
+
+<img src="https://www.example.com/keylogger.jpg" alt="Keylogger" width="300"/>
+
+### *Here is the Outline of Week-4:*
+
+1. Understand the concept of a keylogger
+2. Learn how to implement a keylogger using Python
+3. Implement a simple keylogger to monitor keystrokes
+4. Test the keylogger in a controlled environment
+5. Document the code and its usage
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Understanding the Concept of a Keylogger
+
+- Learned about keyloggers and their applications in cybersecurity.
+- Studied different types of keyloggers and their functionalities.
+
+### Day 2: Implementing the Keylogger Tool
+
+- Started coding the keylogger tool in Python.
+- Implemented basic functionalities to monitor and log keystrokes.
+
+### Day 3: Testing the Tool
+
+- Tested the tool in a controlled environment to ensure it works as expected.
+- Fixed any bugs found during testing and improved the tool's performance.
+
+### Day 4: Writing Documentation
+
+- Documented the code, explaining how to use the tool and its features.
+- Created a user guide for the keylogger tool.
+
+### Day 5: Final Review and Presentation Preparation
+
+- Reviewed the entire week's work and made final adjustments.
+- Prepared a presentation to showcase the keylogger tool.
 
 ## 🤝 Connect with Me
 
