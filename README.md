@@ -96,7 +96,7 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 - *Online Session*: Introduction to Password Complexity Checker
 - This week focused on developing a password complexity checker to enhance password security.
 
-<img src="https://www.example.com/password_checker.jpg" alt="Password Checker" width="300"/>
+<img src="https://res.cloudinary.com/bw-com/image/upload/f_auto/v1/ctf/7rncvj1f8mw7/7yYK16b2bBdsWbkG9cvijf/6dbf8bc9fefffa54d27a43f774f3d7ec/pw-strength-test-chart.png?_a=DAJAUVWIZAAB" alt="Password Checker" width="300"/>
 
 ### *Here is the Outline of Week-3:*
 
@@ -140,7 +140,7 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 - *Online Session*: Introduction to Keylogger
 - This week focused on understanding and implementing a simple keylogger to monitor keystrokes.
 
-<img src="https://www.example.com/keylogger.jpg" alt="Keylogger" width="300"/>
+<img src="https://academy.avast.com/hubfs/New_Avast_Academy/what_is_a_keylogger_academy_a1_refresh/What-is-a-keylogger-03.svg" alt="Keylogger" width="300"/>
 
 ### *Here is the Outline of Week-4:*
 
@@ -176,6 +176,56 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 
 - Reviewed the entire week's work and made final adjustments.
 - Prepared a presentation to showcase the keylogger tool.
+
+## 5️⃣ week 5
+
+### *12th June 2024*
+
+- *Online Session*: Introduction to Network Packet Sniffer
+- This week focused on understanding and implementing a network packet sniffer to capture and analyze network traffic.
+
+<img src="https://cyberhoot.com/wp-content/uploads/2020/02/Diagram-SNIFFER-2-1024x427-1.jpg" alt="Packet Sniffer" width="300"/>
+
+### *Here is the Outline of Week-5:*
+
+1. Understand network packet sniffing
+2. Learn how to implement a packet sniffer using Python
+3. Implement a network packet sniffer to capture traffic
+4. Analyze captured network traffic
+5. Document the code and its usage
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Understanding Network Packet Sniffing
+
+- Explored network packet sniffing techniques and their applications in cybersecurity.
+- Studied various tools and libraries available for network packet sniffing.
+
+### Day 2: Implementing the Packet Sniffer Tool
+
+- Started coding the packet sniffer tool in Python.
+- Implemented basic functionalities to capture network traffic.
+
+### Day 3: Testing the Tool
+
+- Tested the tool to ensure it captures network traffic correctly.
+- Fixed any bugs found during testing and improved the tool's accuracy.
+
+### Day 4: Analyzing Captured Traffic
+
+- Analyzed captured network traffic to understand its structure and content.
+- Implemented additional features to filter and analyze traffic more effectively.
+
+### Day 5: Writing Documentation and Final Review
+
+- Documented the code, explaining how to use the tool and its features.
+- Reviewed the entire week's work and made final adjustments.
+- Prepared a presentation to showcase the network packet sniffer tool.
+
+## Problems Faced During the Internship
+
+- During the internship, I faced challenges with implementing some of the tools, especially with handling edge cases and ensuring security.
+- My mentor provided guidance and support, helping me overcome these challenges and complete the tasks successfully.
 
 ## 🤝 Connect with Me
 
