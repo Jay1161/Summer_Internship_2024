@@ -4,16 +4,9 @@
 
 Welcome to my GitHub repository for the Cybersecurity Internship 2024! This project showcases the work done during the internship, including practical insights and hands-on experience with various cybersecurity tools.
 
-## 🚀 Introduction
-
-### *15th May 2024*
-
-- *Orientation Session*: Basics of Cybersecurity
-- On 25th May, there was an orientation session where our mentor introduced the basics of cybersecurity, emphasizing its importance in protecting data and systems. The internship period is of 5 weeks with a focus on hands-on labs and practical insights into different cybersecurity tools.
-
 ## Start of Internship
 
-## 1️⃣ week 1
+## 1️⃣ Week 1
 
 ### *15th May 2024*
 
@@ -53,6 +46,49 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 - Reviewed the entire week's work and made final adjustments.
 - Prepared a presentation to showcase the Caesar Cipher tool.
 
+## 2️⃣ Week 2
+
+### *22th May 2024*
+
+- *Online Session*: Introduction to Image Pixel Manipulation for Image Encryption
+- This week focused on understanding and implementing image pixel manipulation techniques to encrypt images.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Visual_cryptography_animation.gif" alt="Image Pixel Manipulation" width="300"/>
+
+### *Here is the Outline of Week-2:*
+
+1. Understand image pixel manipulation
+2. Learn how to manipulate image pixels using Python
+3. Implement a tool to encrypt images by pixel manipulation
+4. Test the tool with various images
+5. Document the code and its usage
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Understanding Image Pixel Manipulation
+
+- Explored image pixel manipulation techniques and their applications in image encryption.
+- Studied various libraries and tools available for image manipulation.
+
+### Day 2: Implementing the Image Pixel Manipulation Tool
+
+- Started coding the image pixel manipulation tool in Python.
+- Implemented basic functionalities to manipulate image pixels.
+
+### Day 3: Testing the Tool
+
+- Tested the tool with different images to ensure it works as expected.
+- Fixed any bugs found during testing and improved the tool's performance.
+
+### Day 4: Writing Documentation
+
+- Documented the code, explaining how to use the tool and its features.
+- Created a user guide for the image pixel manipulation tool.
+
+### Day 5: Final Review and Presentation Preparation
+
+- Reviewed the entire week's work and made final adjustments.
+- Prepared a presentation to showcase the image pixel manipulation tool.
 
 
 ## 🤝 Connect with Me
