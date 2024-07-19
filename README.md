@@ -10,8 +10,7 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 
 ### *15th May 2024*
 
-- *Orientation Meeting*: Introduction to Cybersecurity and overview of the internship tasks
-- During the orientation meeting, I tackled questions regarding the basics of cybersecurity. The first week's agenda included understanding and implementing a Caesar Cipher tool.
+- I tackled questions regarding the basics of cybersecurity. The first week's agenda included understanding and implementing a Caesar Cipher tool.
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" alt="Caesar Cipher" width="300"/>
 
@@ -90,6 +89,49 @@ Welcome to my GitHub repository for the Cybersecurity Internship 2024! This proj
 - Reviewed the entire week's work and made final adjustments.
 - Prepared a presentation to showcase the image pixel manipulation tool.
 
+## 3️⃣ Week 3
+
+### *12th June 2024*
+
+- *Online Session*: Introduction to Password Complexity Checker
+- This week focused on developing a password complexity checker to enhance password security.
+
+<img src="https://www.example.com/password_checker.jpg" alt="Password Checker" width="300"/>
+
+### *Here is the Outline of Week-3:*
+
+1. Understand password complexity requirements
+2. Learn how to check password complexity using Python
+3. Implement a password complexity checker tool
+4. Test the tool with various passwords
+5. Document the code and its usage
+
+## 📝 Day-by-Day Progress
+
+### Day 1: Understanding Password Complexity Requirements
+
+- Explored password complexity requirements and their importance in cybersecurity.
+- Studied various criteria for password complexity, such as length, special characters, and mixed case.
+
+### Day 2: Implementing the Password Complexity Checker Tool
+
+- Started coding the password complexity checker tool in Python.
+- Implemented basic functionalities to check password complexity based on different criteria.
+
+### Day 3: Testing the Tool
+
+- Tested the tool with various passwords to ensure it works as expected.
+- Fixed any bugs found during testing and improved the tool's accuracy.
+
+### Day 4: Writing Documentation
+
+- Documented the code, explaining how to use the tool and its features.
+- Created a user guide for the password complexity checker tool.
+
+### Day 5: Final Review and Presentation Preparation
+
+- Reviewed the entire week's work and made final adjustments.
+- Prepared a presentation to showcase the password complexity checker tool.
 
 ## 🤝 Connect with Me
 
